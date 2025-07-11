@@ -10,7 +10,6 @@ from wordcloud import STOPWORDS
 import matplotlib.pyplot as plt
 from datetime import datetime
 import emoji
-import gspred
 import altair as alt
 
 
