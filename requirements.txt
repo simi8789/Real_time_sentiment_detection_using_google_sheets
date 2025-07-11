@@ -60,3 +60,4 @@ urllib3==2.5.0
 watchdog==6.0.0
 wordcloud==1.9.4
 textblob
+gspread
